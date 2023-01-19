@@ -11,6 +11,6 @@ A Calendar was created by HTML,CSS,JS.
 ## Copyright 
 - Oshada Eranga (oshadaera68)
 
-If you have a problem, send mail or message
+## If you have a problem, send mail or message
 - Whatsapp : +94 767627455 / +94 751554523
 - Mail : oshadaeranga919@gmail.com
